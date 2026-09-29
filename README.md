@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Rithvik <br><br> About Me<br>- I'm currently working on https://github.com/sv8587/RippleShield<br>- I'm currently learning full stack applications <br>- I'm looking to collaborate on full stack ideas<br><br><br><br>Tech Stack<br>- Programming Languages: Python,Java,typescript<br>- Frameworks & Tools: Node.js , react<br><br>### Contact & Links<br>- GitHub: https:https://github.com/rithvik-veeramaneni<br>- LinkedIn: https:https://www.linkedin.com/in/rithvik-veeramaneni-5632742b1/<br>
+Hi there, I'm Rithvik <br><br> About Me<br>- I'm currently working on https://github.com/sv8587/RippleShield<br>- I'm currently learning full stack applications <br>- I'm looking to collaborate on full stack ideas<br><br><br><br>Tech Stack<br>- Programming Languages: Python,Java,typescript<br>- Frameworks & Tools: Node.js , react<br><br> Contact & Links<br>- GitHub: https:https://github.com/rithvik-veeramaneni<br>- LinkedIn: https:https://www.linkedin.com/in/rithvik-veeramaneni-5632742b1/<br>
 
 
 # 💻 Tech Stack:
